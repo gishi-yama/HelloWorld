@@ -4,3 +4,6 @@ target/
 *.joeydecaio
 .idea
 .vscode
+.agents/
+.roo/
+skills-lock.json
